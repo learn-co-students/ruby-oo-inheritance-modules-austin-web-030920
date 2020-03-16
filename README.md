@@ -23,6 +23,8 @@ We'll code our `Dance` module inside the `lib/dance_module.rb` file. Open up tha
 ```ruby
 module Dance
 end
+module Dance
+end
 ```
 
 Let's give our `Dance` module some fabulous moves:
